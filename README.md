@@ -58,6 +58,6 @@ password = ''.join((secrets.choice(string.ascii_letters + string.digits)) for i 
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request. Contributions are welcome!
 
-## License
+## Contact
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+For any queries or feedback, please contact ema.ventrella@gmail.com.
